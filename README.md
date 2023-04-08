@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+- [Links](#links)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -20,6 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./design/screenshot-desktop.png)
 ![](./design/screenshot-mobile.png)
 
+### Links
+
+- Solution URL: https://diegoaparicior.github.io/QR-code-component/
 
 ## My process
 
